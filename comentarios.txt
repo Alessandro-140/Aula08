@@ -1,0 +1,1 @@
+O mysql é um banco de dados, mas ele já esta instalado no XAMMP, só tenho  que startar.
